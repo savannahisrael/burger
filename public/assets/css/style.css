@@ -1,12 +1,12 @@
 body {
-    background-color: #F8E400;
+    background-color: white;
   }
   
    .chalkboard {
-    background-image: url("../imgs/Black\ Chalkboard\ Background.jpg");
+    background-image: url("../images/chalkboard.jpg");
     background-size: 100%;
     background-repeat: repeat;
-    border: 15px solid red;
+    border: 15px solid goldenrod;
     box-shadow: 5px 10px 8px black;
     height: 75vh;
     overflow-y: scroll;
