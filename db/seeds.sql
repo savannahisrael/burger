@@ -1,3 +1,3 @@
-INSERT INTO burgers (name) VALUES ('She’s A Super Leek Burger'), ("Hit Me With Your Best Shallot Burger"), ("Papaya Was a Rolling Stone Burger"), ('Foot Feta-ish Burger');
+INSERT INTO burgers (name) VALUES ('Clean-ish Leek Soup "Burger"'), ("Grass-fed Spiritual-AF Bison Burger"), ('Beet-Meat Burger'), ('Pabst 12oz + Cigarette - Burger Not Included');
 
-INSERT INTO burgers (name, devoured) VALUES ("Chile Relleno-You-Didn’t Burger", true), ("Open Sesame Burger ", true);
+INSERT INTO burgers (name, devoured) VALUES ("Raised-In-My-Above-Ground-Pool Ahi Sliders- LOCAL", true), ("1893 Style Burger - May Contain Salmonella", true);
