@@ -1,3 +1,33 @@
 body {
-    background-color: pink;
-}
+    background-color: #F8E400;
+  }
+  
+   .chalkboard {
+    background-image: url("../imgs/Black\ Chalkboard\ Background.jpg");
+    background-size: 100%;
+    background-repeat: repeat;
+    border: 15px solid red;
+    box-shadow: 5px 10px 8px black;
+    height: 75vh;
+    overflow-y: scroll;
+   }
+  
+   .chalkboard h2,
+   .chalkboard p {
+    font-family: 'Short Stack', cursive;
+    color: whitesmoke;
+    text-align: center;
+   }
+  
+   .chalkboard h2 {
+     font-size: 1.5rem;
+     margin: 2%;
+   }
+  
+   .chalkboard p {
+     font-size: 1.2rem;
+   }
+   
+   h3 {
+     color: black;
+   }
